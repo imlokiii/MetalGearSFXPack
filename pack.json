@@ -1,0 +1,10 @@
+{
+  "name": "Metal Gear Solid Sound Pack",
+  "description": " a Metal Gear Solid Sound Pack for Audioloader, (Sounds from MGS2 and MGS3) ",
+  "author": "iml0ki",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}

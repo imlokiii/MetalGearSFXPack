@@ -5,4 +5,4 @@ All sounds files are taken from MGS1, MGS2, MGS3 and MGS4.
 
 # Legal stuff
 
-All sounds are the property of their respective owners. I have no affiliation with Balatro/Localthunk.
+All sounds are the property of their respective owners. I have no affiliation with the Metal Gear franchise or Konami.
